@@ -4,7 +4,7 @@
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
-• 🌴 Proficient in building single-page apps. 
+• 🌴 Proficient in building single-page apps (At the moment I work as an **instructor in Coding Academy**). 
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
