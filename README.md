@@ -1,9 +1,18 @@
 <h1 align="center">Hi! I'm Ori Ben Amram 👋</h1>
 <h3 align="center">I'm looking for my next challenge as a Frontend / Full stack developer.</h3>
 
-- 🏆 I recently built a clone of Trello, check it out, it has everything! [Skello](https://skello.herokuapp.com)
 
-- 📫 You can reach me at **benamram.ori@gmail.com**
+• 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+
+• 🌴 Proficient in building single-page apps. 
+
+• 🎯 High self-disciplined with a constant drive for professional excellence.
+
+• 🏆 I recently built a clone of Trello, check it out, it has everything! [Skello](https://skello.herokuapp.com)
+
+• 📫 You can reach me at **benamram.ori@gmail.com**
+
+• 💙 Fun fact: I love meditation, running, and drawing 🎨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
