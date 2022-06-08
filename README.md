@@ -8,7 +8,7 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Trello, check it out, it has everything! [Skello](https://skello.herokuapp.com)
+• 🏆 I recently built a clone of Trello, **check it out**, it has everything! [Skello](https://skello.herokuapp.com)
 
 • 📫 You can reach me at **benamram.ori@gmail.com**
 
