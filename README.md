@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Ori Ben Amram 👋</h1>
-<h3 align="center">At the moment I'm working as a coding instructor at Coding Academy</h3>
+<h3 align="center">At the moment I'm working as a Full-Stack Developer at [Misterbit Technological Solutions](https://www.misterbit.co.il/), and coding instructor at [Coding Academy](https://www.coding-academy.org/index.php)</h3>
 
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
