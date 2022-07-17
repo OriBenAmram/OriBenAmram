@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Ori Ben Amram 👋</h1>
 <h3 align="center">At the moment I'm working as a coding instructor at Coding Academy</h3>
-Feel free to contact me if you have any intersting challanges / offers.
+
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
