@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Ori Ben Amram 👋</h1>
-<h3 align="center">At the moment I'm working as a Full-Stack Developer at Misterbit Technological Solutions, and coding instructor at Coding Academy</h3>
+<h3 align="center">At the moment I'm working as a coding instructor at Coding Academy</h3>
+<h3 align="center">In addition, I'm learning new technologies all the time such as React Query, RTK, working with AWS and implementing it in my projects</h3>
 
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
