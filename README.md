@@ -4,4 +4,4 @@ Alongside my studies, I’m developing [RoomyGo](https://www.roomygo.com/) — a
 
 I previously worked as a coding instructor at Coding Academy for two years. Many of my repositories here are from that time — I’ve removed links that are no longer up to date, but the code and showcases still represent those past works well.  
 
-📫 **Contact me:** ori.benamram1@gmail.com
+📫 **Contact me:** benamram.ori@gmail.com
