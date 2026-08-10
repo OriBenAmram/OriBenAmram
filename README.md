@@ -6,4 +6,3 @@ I previously worked as a coding instructor at Coding Academy for two years, and 
 
 📫 **Contact me:** benamram.ori@gmail.com
 
-<img width="1749" height="867" alt="image" src="https://github.com/user-attachments/assets/e84b5e93-4c8d-4fc1-b046-7e314cc54645" />
